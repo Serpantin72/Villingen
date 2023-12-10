@@ -1,0 +1,162 @@
+﻿<!doctype html>
+<html>
+
+<head>
+	<!-- Sprachen Option    -->
+	<!-- utf-8 eignet sich am besten für unterschiedliche Sprachen am IPENDANT ueber den Explorer fehlen die Zeichen-->
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+	<title>Hauptseite</title>
+	<!--    $Author: kotta $                -->
+	<!--    $Date: 2019-02-28 08:58:18Z $   -->
+	<!--    $Revision: 187 $                 -->
+
+	<!-- CSS Styles Option     -->
+		<link rel="stylesheet" type="text/css" href="../../fr/Stylesheet.css" />
+</head>
+
+<!-- Start HTML Page/BODY   -->
+<body style="background-image: url(../../FR/Backround1.jpg); background-repeat: no-repeat">
+
+	<div id="fussleiste">
+		<object id="F2" style="width: 50px; height: 1px" classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" />
+			<param name="_Version" value="65536" />
+			<param name="_ExtentX" value="1323" />
+			<param name="_ExtentY" value="370" />
+			<param name="_StockProps" value="6" />
+			<param name="Caption" value="" />
+			<param name="FontSize" value="4" />
+			<param name="ViewType" value="2" />
+			<param name="width" value="50" />
+			<param name="height" value="14" />
+			<param name="TrueFont" value="-1" />
+			<param name="FastLoad" value="-1" />
+			<param name="BackColor" value="12632256" />
+		</object>
+
+		<object id="F3" style="width: 50px; height: 1px" classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" />
+			<param name="_Version" value="65536" />
+			<param name="_ExtentX" value="1323" />
+			<param name="_ExtentY" value="370" />
+			<param name="_StockProps" value="6" />
+			<param name="Caption" value="" />
+			<param name="FontSize" value="4" />
+			<param name="ViewType" value="3" />
+			<param name="width" value="50" />
+			<param name="height" value="14" />
+			<param name="TrueFont" value="-1" />
+			<param name="FastLoad" value="-1" />
+			<param name="BackColor" value="12632256" />
+		</object>
+
+		<object id="F4" style="width: 50px; height: 1px" classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" />
+			<param name="_Version" value="65536" />
+			<param name="_ExtentX" value="1323" />
+			<param name="_ExtentY" value="370" />
+			<param name="_StockProps" value="6" />
+			<param name="Caption" value="" />
+			<param name="FontSize" value="4" />
+			<param name="ViewType" value="4" />
+			<param name="width" value="50" />
+			<param name="height" value="14" />
+			<param name="TrueFont" value="-1" />
+			<param name="FastLoad" value="-1" />
+			<param name="BackColor" value="12632256" />
+		</object>
+
+		<object id="F5" style="width: 50px; height: 1px" classid="clsid:7106067C-0E45-11D3-81B6-0000E206D650" />
+			<param name="_Version" value="65536" />
+			<param name="_ExtentX" value="1323" />
+			<param name="_ExtentY" value="370" />
+			<param name="_StockProps" value="6" />
+			<param name="Caption" value="" />
+			<param name="FontSize" value="4" />
+			<param name="ViewType" value="5" />
+			<param name="width" value="50" />
+			<param name="height" value="14" />
+			<param name="TrueFont" value="-1" />
+			<param name="FastLoad" value="-1" />
+			<param name="BackColor" value="12632256" />
+		</object>
+
+	</div>
+
+	<div id="tastenfeld">
+
+       <object id="ButtonAutomatikStart" width="118" height="60" classid="clsid:7106066C-0E45-11D3-81B6-0000E206D650" align="left">
+			<param name="Caption" value="Automatik Start">
+			<param name="FontSize" value="13">
+			<param name="width" value="112">
+			<param name="height" value="60">
+			<param name="DataType" value="2">
+			<param name="DataIndex" value="841">
+			<param name="TrueColor" value="12632256">
+			<param name="FalseColor" value="12632256">
+			<param name="Interval" value="250">
+			<param name="TrueFont" value="-1">
+			<param name="FastLoad" value="0">
+			<param name="BackColor" value="12632256">
+			<param name="ForeColor" value="12632256">
+			<param name="TrueStrColor" value="3727104">
+			<param name="FalseStrColor" value="0">
+			<param name="TrueCaption" value="Automatik Stop">
+			<param name="TrueValue" value="1">
+			<param name="FontBold" value="0">
+			<param name="FontWeight" value="400">
+			<param name="FontName" value="Verdana">
+			<param name="FontItalic" value="0">
+			<param name="FontUnderline" value="0">
+			<param name="FontStrikethrough" value="0">
+			<param name="FontCharSet" value="0">
+			<param name="Type" value="0">
+			<param name="OtherPhase" value="-1">
+			<param name="FalseValue" value="0">
+			<param name="Border" value="0">
+			<param name="HAlign" value="1">
+			<param name="VAlign" value="1">
+			<param name="Periodic" value="-1">
+			<param name="ViewType" value="0">
+			<param name="TrueImage" value>
+			<param name="FalseImage" value>
+			<param name="Pulse" value="0">
+			<param name="PulseTime" value="100">
+			<param name="IOSim" value="0">
+			<param name="Pipe" value>
+			<param name="ReadOnly" value>
+			<param name="Invisible" value>
+			<param name="Disable" value>
+			<param name="OverrideRO" value="0">
+			<param name="RWAccess" value="0">
+			<param name="Momentary" value="0">
+			<param name="Confirm" value="0">
+			<param name="Invert" value="0">
+			<param name="ValueStr" value>
+			<param name="TrueValueStr" value>
+			<param name="ChkDeadman" value="0">
+			<param name="ChkTpEnable" value="0">
+			<param name="ChkShift" value="0">
+			<param name="ChkIo" value="0">
+			<param name="ChkIoType" value="0">
+			<param name="ChkIoIdx" value="0">
+			<param name="CaptionOnImage" value="0">
+		</object>
+
+		<button onclick="location.href = '../../FR/Modus_DE.stm'" style="font-family: Verdana; height: 60px; width: 118px; font-size: 14pt;">
+			Modus
+		</button>
+
+		<button onclick="location.href = '../../FR/Typ_DE.stm'" style="font-family: Verdana; height: 60px; width: 118px; font-size: 14pt;">
+			Typ
+		</button>
+
+		<button onclick="location.href = '../../FR/Manual_DE.stm'" style="font-family: Verdana; height: 60px; width: 118px; font-size: 14pt;">
+			Hand<br>Funktionen
+		</button>
+
+		<button onclick="location.href = '../../FR/option_DE.stm'" style="font-family: Verdana; height: 60px; width: 118px; font-size: 14pt;"> 
+			Optionen
+		</button>
+	</div>
+</body>
+
+</html>
