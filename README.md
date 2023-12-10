@@ -1,1 +1,1 @@
-# Villingen ist schoene Stadt
+# Villingen ist eine schoene Stadt
